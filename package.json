@@ -2,7 +2,7 @@
   "name": "ele_app",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "zxfjd3g <258147149@qq.com>",
+  "author": "Y-Cwei <1095971737@qq.com>",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
